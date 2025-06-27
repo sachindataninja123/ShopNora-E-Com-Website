@@ -1,4 +1,4 @@
-import { getCartProductFromLS } from "./getCartProducts";
+import { getCartProductFromLS } from "./getCartProducts.js";
 import { showToast } from "./showToast.js";
 import { updateCartValue } from "./updateCartValue.js";
 
