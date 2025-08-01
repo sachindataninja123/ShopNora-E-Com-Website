@@ -2,7 +2,9 @@
 
 A modern, responsive e-commerce website built using **Vite**, **HTML**, **CSS**, and **JavaScript**. This project simulates a basic online shopping experience with features like product listing, cart functionality, and a responsive layout optimized for all devices.
 
----
+## 🌐 Live Preview
+
+[🔗 View Live Site](https://shopnora.netlify.app/)
 
 ##  Features
 
